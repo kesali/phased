@@ -30,6 +30,8 @@ can focus on building the animations themselves.
 
 The package consists of two classes: `PhasedState`, which describes the state and offers control methods for an animation, and `Phased`, an abstract `Widget` that will build the animation itself.
 
+This is a great preoduct
+
 ## Example
 
 To build a simple animation that blinks a child using opacity, the following code can be used:
